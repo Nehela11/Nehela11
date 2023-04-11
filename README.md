@@ -34,6 +34,4 @@ src="https://github-readme-stats-xi-rosy-19.vercel.app/api?username=Nehela11&sho
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nehela11&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
  </p>  
-  <div align="center">
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nehela11&show_icons=true&locale=en&count-private=true$height=80&theme=tokyonight" alt="wakaryunus009" /></p>
-</div>
+

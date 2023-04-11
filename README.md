@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact **Newbie trying to be a pro**
 
-<a href="https://auth.geeksforgeeks.org/user/wakaryunus009/practice" target="_blank">
+<a href="https://auth.geeksforgeeks.org/user/nasrinnehhajo/practice" target="_blank">
     <img height="40" width="40" margin="0 30px" src="http://www.geeksforgeeks.org/wp-content/uploads/gfg_200X200-1.png" alt="">
 </a>    
 
